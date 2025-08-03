@@ -1,2 +1,7 @@
-# Orbitune
-A python based mp3 player
+Welcome to Orbitune, a simple and elegant media player designed to provide a pleasant and straightforward audio experience. The name "Orbitune" is inspired by the harmonious and cyclical nature of planetary orbits, reflecting how your music can loop and fill your space with a steady rhythm. This application is built for those who appreciate a clean interface and the ability to easily manage their local audio files in a single, focused environment.
+
+Getting started is easy. To build your playlist, simply click the "Add to Playlist" button and select the audio files you want to hear. Once your songs are listed, you can double-click on any track to begin playback. The familiar controls—play, pause, stop, next, and previous—give you complete command over your listening session. You can also adjust the volume with the slider to find the perfect level for your enjoyment.
+
+A unique feature of Orbitune is its visualizer, which provides a dynamic visual experience to accompany your music. You can choose from four different styles: "Static Bars," "PS1 Style," "Waveform," and "Bouncing Dots." These visualizers offer a simple, animated representation of your audio, turning your listening session into a multi-sensory experience. It's a fun way to engage with your music and add a touch of visual flair to the application.
+
+Thank you for choosing Orbitune. Whether you're relaxing to your favorite album or working with a custom playlist, we hope this player brings a little more harmony to your day. Feel free to explore the different visualizer options and build the perfect soundtrack for your tasks. Enjoy your music, and let Orbitune provide a simple, clean, and rhythmic backdrop.
