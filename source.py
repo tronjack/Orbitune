@@ -1,6 +1,3 @@
-# WARNING: This code has been intentionally made hard to read and modify.
-# It is not recommended for production use as it is difficult to debug.
-
 import pygame as pg
 import sys
 import tkinter as tk
